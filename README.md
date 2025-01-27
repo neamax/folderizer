@@ -14,7 +14,7 @@ This PowerShell script organizes files in a directory based on their creation or
 Perfect for decluttering and organizing your file directories with a click! 🎉  
 
 ### How to Use:
-1. Clone or download this repository. Copy and Paste the `folderizer.ps1` file to the root of your images folder (the same folder where the images you want to get organised exist).
+1. [Download the latest version from the Releases page](https://github.com/neamax/folderizer/releases/tag/Windows). Move the `folderizer.ps1` file to the root of your images folder (the same folder where the images you want to get organised exist).
 2. Open the `folderizer.ps1` file in PowerShell.
 3. Press 'S' to start, and let it organize your files.
    All your photos will move to separated folders based on their date taken metadata, inside the "Organised" folder.
