@@ -12,8 +12,8 @@ This PowerShell script organizes files in a directory based on their creation or
 Perfect for decluttering and organizing your file directories with a click! 🎉  
 
 ### How to Use:
-1. Clone or download this repository. Copy and Paste the `foldering-based-on-date.ps1` file to the root of your images folder (the same folder where the images you want to get organised exist).
-2. Open the `foldering-based-on-date.ps1` file in PowerShell.
+1. Clone or download this repository. Copy and Paste the `folderizer.ps1` file to the root of your images folder (the same folder where the images you want to get organised exist).
+2. Open the `folderizer.ps1` file in PowerShell.
 3. Run the script, press 'S' to start, and let it organize your files.
 
 Enjoy a neat and organized directory! ✨
