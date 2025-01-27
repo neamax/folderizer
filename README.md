@@ -1,4 +1,5 @@
-# File Organizer Script 🗂️  
+#Folderizer
+```File Organizer Script 🗂️```
 
 This PowerShell script organizes files in a directory based on their creation or EXIF date and moves them into a structured "Organized" folder. Each subfolder is named by date (e.g., `YYMMDD`), making it easier to manage and sort files such as images or documents.  
 
