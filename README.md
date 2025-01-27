@@ -3,7 +3,7 @@
 
 This PowerShell script organizes files in a directory based on their creation or EXIF date and moves them into a structured "Organized" folder. Each subfolder is named by date (e.g., `YYMMDD`), making it easier to manage and sort files such as images or documents.  
 
-![Preview](./preview.png)
+![Preview](./assets/preview.png)
 
 ### Features:  
 - Automatically detects and reads EXIF metadata for image files.  
