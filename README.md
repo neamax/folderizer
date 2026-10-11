@@ -20,3 +20,10 @@ Perfect for decluttering and organizing your file directories with a click! 🎉
    All your photos will move to separated folders based on their date taken metadata, inside the "Organised" folder.
 
 Enjoy a neat and organized directory! ✨
+
+> ---
+> *Developed by*
+> **Neama Kazemi**
+> at [LuckyGene Indie Studio](https://neama.luckygene.site/)
+> Email: [neama@luckygene.site](mailto:neama@luckygene.site)
+> ___
